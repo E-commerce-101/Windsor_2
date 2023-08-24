@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import Picture_1 from '../assets/Shoes/picture1.jpg'
 import Picture_2 from '../assets/Shoes/picture2.jpg'
 import Picture_3 from '../assets/Shoes/picture3.jpg'
@@ -30,7 +31,9 @@ const Shoes =()=>{
                             </div>
                             
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -46,7 +49,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -62,7 +67,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -78,7 +85,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -94,7 +103,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -110,7 +121,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -126,7 +139,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -142,7 +157,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
@@ -158,7 +175,9 @@ const Shoes =()=>{
 
                             </div>
                             <button className="bg-current px-4 rounded-lg aspect-square w-fit h-full">
+                            <Link to='/cart'>
                                 <span className="material-symbols-outlined text-white">local_mall</span>
+                            </Link>
                             </button>
                         </div>
 
